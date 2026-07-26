@@ -31,8 +31,8 @@
 [![Version](https://img.shields.io/badge/version-v1.0.0-6EE7B7?style=flat-square)](#)
 [![TypeScript](https://img.shields.io/badge/typescript-5.3%2B-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
 [![NitroStack](https://img.shields.io/badge/NitroStack-core-4F46E5?style=flat-square)](#)
-[![License](https://img.shields.io/badge/license-MIT-black?style=flat-square)](#)
-[![Status](https://img.shields.io/badge/status-Production-orange?style=flat-square)](#)
+[![License](https://img.shields.io/badge/Open%20Source-Yes-brightgreen?style=flat-square)](#)
+[![Status](https://img.shields.io/badge/status-MVP-purple?style=flat-square)](#)
 
 [Overview](#overview) &middot; [Architecture](#architecture) &middot; [The Orchestration Pipeline](#the-orchestration-pipeline) &middot; [MCP Tools](#mcp-tools) &middot; [Quick Start](#quick-start)
 
